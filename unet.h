@@ -11,7 +11,8 @@ struct Unet : torch::nn::Module {
 
     torch::nn::Sequential enc1, enc2, enc3, enc4;
     torch::nn::Sequential dec1, dec2, dec3, dec4;
-    torch::nn::ConvTranspose2d bottom = nullptr;
+    torch::nn::ConvTranspose2d b{nullptr}, dec1_t{nullptr}, dec2_t{nullptr};
+    
 
     Unet(int64_t input_channel = 1, int64_t output_channel = 1, int64_t num_filter = 16); 
 
@@ -21,11 +22,16 @@ struct Unet : torch::nn::Module {
         auto x3 = enc3->forward(x2);
         auto x4 = enc4->forward(x3);
 
-        std::cout << x4.sizes() << std::endl;
-        auto m1 = bottom->forward(x4);
-        std::cout << "Here" << std::endl;
-        //auto y1 = dec1->forward(m1);
-        return m1;
+        auto b1 = b->forward(x4);
+
+        auto y1 = dec1->forward(torch::cat({b1, x3}, 1));
+        auto t1 = dec1_t->forward(y1);
+        auto y2 = dec2->forward(torch::cat({t1, x2}, 1));
+        auto t2 = dec2_t->forward(y2);
+        auto y3 = dec3->forward(torch::cat({t2, x1}, 1));
+      
+
+        return y3;
     }
 
 
