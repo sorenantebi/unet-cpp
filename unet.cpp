@@ -22,7 +22,40 @@ struct Unet : torch::nn::Module {
             torch::nn::ReLU()
         );
 
+        n = n*2;
+        enc2 = torch::nn::Sequential(
+            torch::nn::Conv2d(torch::nn::Conv2dOptions((int)(n/2), n, 3).stride(2).padding(1)),
+            torch::nn::BatchNorm2d(n),
+            torch::nn::ReLU(),
+            torch::nn::Conv2d(torch::nn::Conv2dOptions(n, n, 3).padding(1)),
+            torch::nn::BatchNorm2d(n),
+            torch::nn::ReLU()
+        );
+
+        n = n*2;
+        enc3 = torch::nn::Sequential(
+            torch::nn::Conv2d(torch::nn::Conv2dOptions((int)(n/2), n, 3).stride(2).padding(1)),
+            torch::nn::BatchNorm2d(n),
+            torch::nn::ReLU(),
+            torch::nn::Conv2d(torch::nn::Conv2dOptions(n, n, 3).padding(1)),
+            torch::nn::BatchNorm2d(n),
+            torch::nn::ReLU()
+        );
+
+        n = n*2;
+        enc4 = torch::nn::Sequential(
+            torch::nn::Conv2d(torch::nn::Conv2dOptions((int)(n/2), n, 3).stride(2).padding(1)),
+            torch::nn::BatchNorm2d(n),
+            torch::nn::ReLU(),
+            torch::nn::Conv2d(torch::nn::Conv2dOptions(n, n, 3).padding(1)),
+            torch::nn::BatchNorm2d(n),
+            torch::nn::ReLU()
+        );
+
         register_module("enc1", enc1);
+        register_module("enc2", enc2);
+        register_module("enc3", enc3);
+        register_module("enc4", enc4);
     }
 
     torch::Tensor forward(torch::Tensor x) {
