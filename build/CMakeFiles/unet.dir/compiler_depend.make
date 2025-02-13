@@ -588,10 +588,43 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/transform_exclusive_scan.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/transform_inclusive_scan.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/transform_reduce.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/bernoulli_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/binomial_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/cauchy_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/chi_squared_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/clamp_to_integral.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/default_random_engine.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/discard_block_engine.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/discrete_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/exponential_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/extreme_value_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/fisher_f_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/gamma_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/generate_canonical.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/geometric_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/independent_bits_engine.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/is_seed_sequence.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/is_valid.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/knuth_b.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/linear_congruential_engine.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/log2.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/lognormal_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/mersenne_twister_engine.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/negative_binomial_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/normal_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/piecewise_constant_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/piecewise_linear_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/poisson_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/random_device.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/ranlux.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/seed_seq.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/shuffle_order_engine.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/student_t_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/subtract_with_carry_engine.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/uniform_random_bit_generator.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/uniform_real_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/weibull_distribution.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__ranges/access.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__ranges/concepts.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__ranges/container_compatible_range.h \
@@ -859,6 +892,7 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/ostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/print \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/queue \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/random \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/ratio \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/set \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/shared_mutex \
@@ -1037,6 +1071,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdint.h \
+  /Users/sorenantebi/Desktop/Fun/unet_cpp/dataset.h \
+  /Users/sorenantebi/Desktop/Fun/unet_cpp/stb_image/stb_image.h \
   /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.h \
   /Users/sorenantebi/Downloads/libtorch/include/ATen/ATen.h \
   /Users/sorenantebi/Downloads/libtorch/include/ATen/BlasBackend.h \
@@ -6545,8 +6581,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_legendre_polynomial_p_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_legendre_polynomial_p_meta.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_legendre_polynomial_p.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_laguerre_polynomial_l_ops.h:
@@ -6838,10 +6872,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/selu_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/selu.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/data/transforms/base.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/select_scatter_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/select_scatter.h:
 
@@ -7935,8 +7965,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/log2_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/log10_ops.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/log10_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/log10_meta.h:
@@ -8199,8 +8227,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/lgamma.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/less_ops.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/less_equal.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/pad_ops.h:
@@ -8260,8 +8286,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/kron_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/kron_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/kron.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/kl_div_native.h:
 
@@ -8457,8 +8481,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/index_put.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/index_meta.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/index_fill_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/masked_scatter_native.h:
@@ -8564,8 +8586,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/hardtanh.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/hardswish_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/hardswish_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/hardswish_backward.h:
 
@@ -8845,27 +8865,39 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/flatten_dense_tensors_native.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fix_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/new_ones.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fix_native.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fix.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/format_parse_context.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fill_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fill_ops.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fill_diagonal_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/smooth_l1_loss_backward_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fill_diagonal_native.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fill_diagonal.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fill.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfftn_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/scatter_add.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfftn.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_clamp_min_native.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfftfreq.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfftn_native.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/isneginf.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_coo_tensor_with_dims_and_tensors.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfft_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfft2_native.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfft2.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfft.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_irfftn_ops.h:
 
@@ -8873,21 +8905,11 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_irfft_ops.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_irfft2_native.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_irfft2.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/rnn_relu_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/hardsigmoid_backward.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_next_permutation.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_ihfftn_ops.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/iter_swap.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__atomic/kill_dependency.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_ihfftn_native.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_irfft.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_ihfftn.h:
 
@@ -8973,6 +8995,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_ends_with.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/clamp_to_integral.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fbgemm_linear_int8_weight_fp32_activation_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fbgemm_linear_int8_weight_fp32_activation.h:
@@ -9007,12 +9031,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fake_quantize_per_channel_affine_cachemask_backward_ops.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/includes.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fake_quantize_per_channel_affine_cachemask_backward.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfftn.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_types/_size_t.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fake_quantize_per_channel_affine_cachemask.h:
@@ -9044,10 +9062,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_hfft2_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/exp_meta.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/isneginf.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfft_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_padded_dense_to_jagged_forward_native.h:
 
@@ -9103,8 +9117,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/empty_like_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/empty_like_native.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/is_leaf.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/empty_like.h:
@@ -9140,10 +9152,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory/auto_ptr.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/dsplit_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_test_optional_floatlist_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfftfreq_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fractional_max_pool3d_backward_ops.h:
 
@@ -9436,10 +9444,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/empty_permuted.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/copysign_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/bitwise_not_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/copysign_meta.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/copy_sparse_to_sparse_ops.h:
 
@@ -9859,6 +9863,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/bitwise_or.h:
 
+/Users/sorenantebi/Desktop/Fun/unet_cpp/dataset.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cufft_set_plan_cache_max_size_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/avg_pool2d_ops.h:
@@ -9913,9 +9919,9 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/atan_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/conv_tbc_ops.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/core/stack.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/conv_tbc_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/atan2_native.h:
 
@@ -9957,8 +9963,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/as_strided_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/as_strided_native.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_nested_compute_contiguous_strides_offsets_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/argwhere_ops.h:
@@ -9968,10 +9972,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/repeat_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/argwhere.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/new_ones.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fix_native.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/nth_element.h:
 
@@ -10163,9 +10163,9 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/addmv_meta.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/limits:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/flatten.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/limits:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/addmm_ops.h:
 
@@ -10321,9 +10321,9 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/logdet_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_segment_reduce_backward_ops.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_slow_conv2d_backward_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_segment_reduce_backward_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/as_strided_copy_ops.h:
 
@@ -10563,10 +10563,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_unsafe_index.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/expand_copy_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_unpack_dual.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/nn/options/normalization.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_unique2_native.h:
@@ -10677,19 +10673,11 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_to_cpu.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/nn/modules/normalization.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_dimI_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_irfftn_native.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_pop_heap.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/bartlett_window.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_to_copy_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fill_diagonal.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__iterator/unreachable_sentinel.h:
 
@@ -10776,8 +10764,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_test_serialization_subcmul_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_test_serialization_subcmul_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_test_parallel_materialize_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/replace_copy.h:
 
@@ -10939,6 +10925,10 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_semi_structured_mm.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_unpack_dual.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/expand_copy_native.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_semi_structured_linear_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/acosh_native.h:
@@ -11011,7 +11001,13 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_coo_tensor_with_dims_and_tensors_native.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/discard_block_engine.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_to_sparse_csc.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfft2_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_coo_tensor_with_dims_and_tensors.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/is_leaf_ops.h:
 
@@ -11021,11 +11017,11 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/sinc_meta.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_nested_tensor_from_tensor_list.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_convert_indices_from_csr_to_coo_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sched.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_nested_tensor_from_tensor_list.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_to_sparse_bsc_native.h:
 
@@ -11206,10 +11202,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_scaled_dot_product_flash_attention_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_scaled_dot_product_flash_attention_for_cpu_backward_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/einsum_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfftfreq_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/sparse_mask_ops.h:
 
@@ -11452,6 +11444,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_propagate_xla_data.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/serialize/tensor.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/linear_congruential_engine.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_pack_padded_sequence_native.h:
 
@@ -11857,8 +11851,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_linalg_det_meta.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fbgemm_linear_int8_weight.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/nn/pimpl.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_primary_template.h:
@@ -12025,6 +12017,10 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/embedding_bag.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/default_random_engine.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/normal_distribution.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/cstdlib:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fused_adam.h:
@@ -12043,43 +12039,35 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_functional_assert_scalar_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_irfft2_native.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_functional_assert_async_ops.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/in_found_result.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_functional_assert_async.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_convert_indices_from_coo_to_csr_meta.h:
+/Users/sorenantebi/Downloads/libtorch/include/c10/macros/Macros.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/core/dispatch/Dispatcher.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/split_copy.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_version_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_functional_assert_scalar_native.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_zero_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/miopen_rnn.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_zero_native.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/type_identity.h:
+/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/optim/schedulers/lr_scheduler.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/l1_loss.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/logaddexp_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_trunc_ops.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_trunc_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/inner.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/unflatten_dense_tensors_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cast_Int_native.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_trunc.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__functional/binary_negate.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_prelu_kernel_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_tanh.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cast_Half_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fill.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_tanh_ops.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_arithmetic.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_tan_ops.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sub_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/linalg_eigvalsh_ops.h:
 
@@ -12087,9 +12075,15 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sub_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/stack_ops.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/ormqr.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_debug_has_internal_overlap_ops.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/max_pool2d_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_pdist_backward.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sub.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sqrt_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/log1p_ops.h:
 
@@ -12099,11 +12093,57 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sqrt.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/replication_pad1d_backward_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/addmm.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sinh_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_mkldnn_reshape.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/nn/modules/embedding.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_entr_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fmin_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sinh_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/data/detail/data_shuttle.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sin_native.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_histogramdd_from_bin_tensors_native.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_trivially_move_constructible.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/can_cast_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sign_native.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/elu_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_softmax_backward_data_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sign_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sign.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sigmoid_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/digamma_meta.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/tensor_split_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sigmoid_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/batch_norm_backward_elemt_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_thnn_fused_lstm_cell_backward_impl.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_scaled_dot_product_fused_attention_overrideable_backward_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sigmoid.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/nll_loss_backward.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_rsqrt_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/any_native.h:
 
@@ -12289,8 +12329,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_ceil_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_ceil.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cartesian_prod_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_autocast_to_full_precision.h:
@@ -12367,12 +12405,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_flash_attention_forward_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/replication_pad1d_backward_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/addmm.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sinh_ops.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/batch_norm_backward_reduce_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/add_volatile.h:
@@ -12419,16 +12451,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fake_quantize_per_tensor_affine_cachemask_tensor_qparams_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/to_sparse_bsr.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cummax_helper.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/div.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cummin.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fake_quantize_per_tensor_affine_cachemask_tensor_qparams.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/conv_tbc_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fake_quantize_per_channel_affine_cachemask_ops.h:
@@ -12444,8 +12466,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_compressed_tensor_with_dims.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fake_quantize_learnable_per_tensor_affine_backward_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_functional_assert_async_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_test_autograd_multiple_dispatch_native.h:
 
@@ -12537,8 +12557,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_efficient_attention_forward.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sub_ops.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/indices_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_empty_per_channel_affine_quantized_ops.h:
@@ -12555,6 +12573,12 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_dirichlet_grad_ops.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/scatter_add.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfftn_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_clamp_min_native.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory/uninitialized_algorithms.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cudnn_batch_norm.h:
@@ -12562,6 +12586,16 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sin_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fused_sdp_choice.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/nn/modules/normalization.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_irfftn_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_dimI_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/stack_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_debug_has_internal_overlap_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/diagflat.h:
 
@@ -12584,6 +12618,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/dstack.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/exception_guard.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/gamma_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/in_in_out_result.h:
 
@@ -12709,6 +12745,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/adaptive_max_pool2d.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/chi_squared_distribution.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cslt_compress_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/atleast_3d.h:
@@ -12781,6 +12819,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/affine_grid_generator_native.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/piecewise_linear_distribution.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_convert_indices_from_csr_to_coo_meta.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_convert_indices_from_coo_to_csr.h:
@@ -12792,14 +12832,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/narrow_copy_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_conv_depthwise2d_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/batch_norm_backward_elemt_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_thnn_fused_lstm_cell_backward_impl.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_scaled_dot_product_fused_attention_overrideable_backward_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sigmoid.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_safe_softmax.h:
 
@@ -12887,22 +12919,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_choose_qparams_per_tensor_native.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__iterator/segmented_iterator.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_convertible.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/core/Scalar.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/pairwise_distance.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cummax.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_adaptive_avg_pool2d_ops.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__iterator/iterator.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_choose_qparams_per_tensor.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/adjacent_difference.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cdist_forward_native.h:
@@ -12914,12 +12930,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cdist_backward.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cast_Short_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/optim/schedulers/lr_scheduler.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/logaddexp_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_trunc_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/quantize_per_tensor_dynamic_ops.h:
 
@@ -12943,11 +12953,13 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cast_Int_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_tanh_ops.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/index_meta.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cast_Half_native.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/knuth_b.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/align_as.h:
+
+/Users/sorenantebi/Desktop/Fun/unet_cpp/stb_image/stb_image.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/new_ones_ops.h:
 
@@ -12960,12 +12972,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cast_Float_ops.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_types/_u_short.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_erfc_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sinh.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/replication_pad2d_ops.h:
 
@@ -12998,10 +13004,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_batch_norm_no_update_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_batch_norm_no_update.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cat_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_batch_norm_impl_index_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/partition_copy.h:
 
@@ -13040,8 +13042,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/sspaddmm_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_assert_async_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_prelu_kernel_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_aminmax_ops.h:
 
@@ -13084,6 +13084,10 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_neg_view_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fbgemm_linear_quantize_weight_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_irfft2_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/random:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_add_batch_dim_ops.h:
 
@@ -13136,6 +13140,22 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_native_multi_head_attention_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fft_c2c_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__iterator/segmented_iterator.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_convertible.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__iterator/iterator.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_choose_qparams_per_tensor.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/core/Scalar.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/pairwise_distance.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cummax.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_adaptive_avg_pool2d_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/wchar.h:
 
@@ -13209,18 +13229,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/conv_tbc_backward_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_weight_norm_interface_backward_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/isfinite_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_test_optional_intlist_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_lu_with_info_native.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/arm/_limits.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/core/type_ptr.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/nn/options/transformer.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_upsample_nearest_exact2d_native.h:
@@ -13244,6 +13252,12 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/core/op_registration/op_allowlist.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cholesky_solve_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/isfinite_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_lu_with_info_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_test_optional_intlist_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/pow_ops.h:
 
@@ -13279,6 +13293,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/core/function_schema.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/extreme_value_distribution.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_addcmul_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/core/enum_tag.h:
@@ -13302,12 +13318,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__tuple/tuple_like.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/core/dispatch/OperatorEntry.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/ostream:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/core/custom_class.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fill_native.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__exception/nested_exception.h:
 
@@ -13513,6 +13523,10 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/Formatting.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/less_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/weibull_distribution.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_ceil_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/split_copy_native.h:
@@ -13649,6 +13663,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/xlocale/___wctype.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_functional_assert_async_native.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/bincount.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/utils.h:
@@ -13675,6 +13691,14 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_resize_output_ops.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/rnn_relu_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/hardsigmoid_backward.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_ihfftn_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_next_permutation.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/wait.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/search_n.h:
@@ -13698,10 +13722,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_copy_assignable.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_convert_indices_from_coo_to_csr_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/unflatten_dense_tensors_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_trunc.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fake_quantize_learnable_per_tensor_affine_backward_ops.h:
 
@@ -13787,6 +13807,12 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stdarg_header_macro.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_erfc_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sinh.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_types/_u_short.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_reciprocal_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/core/builtin_function.h:
@@ -13843,8 +13869,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_erfc_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfft.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/diagonal_copy_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_types/_mbstate_t.h:
@@ -13867,19 +13891,11 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/autograd/edge.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_types/_u_int.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/ctc_loss_native.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_types/_u_int.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_types/_in_addr_t.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/can_cast_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/elu_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_softmax_backward_data_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sign_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/full_like_ops.h:
 
@@ -13954,6 +13970,10 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_pthread/_pthread_types.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_pthread/_pthread_rwlockattr_t.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_legendre_polynomial_p_meta.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/piecewise_constant_distribution.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/data/dataloader.h:
 
@@ -14031,6 +14051,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/pthread/sched.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/uniform_real_distribution.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/pthread/pthread_impl.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/nl_types.h:
@@ -14077,15 +14099,15 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/mach/machine/_structs.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/sample.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/TargetConditionals.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_shifted_chebyshev_polynomial_w_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_copy_if.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/remove_cvref.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/sample.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/TargetConditionals.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cat_meta.h:
 
@@ -14120,6 +14142,14 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/utility:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_dim_arange.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__functional/binary_negate.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_tanh.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/inner.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cast_Int_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_unsafe_index_ops.h:
 
@@ -14189,6 +14219,10 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_set_difference.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/core/custom_class.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/ostream:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/resize_as.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/numeric:
@@ -14204,6 +14238,10 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cast_Byte_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_nnpack_available_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/log10_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/fisher_f_distribution.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_unsafe_index_put_native.h:
 
@@ -14313,13 +14351,13 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/erfinv_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/norm_native.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/reduce.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/sym_stride_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/piecewise_construct.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/norm_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/reduce.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/core/alias_info.h:
 
@@ -14451,31 +14489,25 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/rel_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/nn/functional/conv.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_csr_sum_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/log_normal_ops.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_fftfreq.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/find_segment_if.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_rotate_copy.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_gammaln_ops.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/format_error.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_addcmul.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/pair.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/formatter_integer.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/avg_pool3d_backward.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_functional_sym_constrain_range_ops.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_upsample_nearest_exact1d_meta.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/var.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/formatter_string.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_log1p_ops.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_transform_bias_rescale_qkv.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/no_destroy.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/optim/adagrad.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_for_each_n.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_scaled_dot_product_cudnn_attention_backward_ops.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/integer_sequence.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_csc_tensor_unsafe_ops.h:
 
@@ -14503,53 +14535,41 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/forward.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/data/samplers/sequential.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_logit_native.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/find_if.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/mul_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/multi_margin_loss_backward_ops.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_use_cudnn_ctc_loss_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/core/boxing/impl/make_boxed_from_unboxed_functor.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_hfft_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/zeros_like_native.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_pthread/_pthread_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/exchange.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__chrono/system_clock.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/conv_transpose1d.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/comp.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/empty.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/declval.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cumprod.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/auto_cast.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_minmax_element.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/copy.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_has_compatible_shallow_copy_type_ops.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/in_found_result.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__math/inverse_trigonometric_functions.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/core/dispatch/Dispatcher.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/as_lvalue.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_convert_indices_from_coo_to_csr_meta.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/TensorIterator.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/unwrap_ref.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_fftshift.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_embedding_bag_sparse_backward_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/linalg_norm_ops.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/randint_native.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/void_t.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/result_of.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_nothrow_move_assignable.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/vstack_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_softmax.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/transform_reduce.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/strip_signature.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/remove_pointer.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__string/char_traits.h:
 
@@ -14558,6 +14578,10 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/poisson_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/core/boxing/KernelFunction_impl.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fake_quantize_learnable_per_tensor_affine.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_batch_norm_with_update_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/replace_copy_if.h:
 
@@ -14638,8 +14662,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_volatile.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_void.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/declval.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/upsample_linear1d_native.h:
 
@@ -14733,23 +14755,13 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_types/_blksize_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/remove_volatile.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory/unique_ptr.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/dstack_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/xpu.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_masked_softmax_backward_native.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory_resource/memory_resource.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_semi_structured_linear_native.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_reference_wrapper.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fused_moving_avg_obs_fq_helper_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/TensorOperators.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_tan.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/subtract_with_carry_engine.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/t_ops.h:
 
@@ -14757,27 +14769,15 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_nothrow_destructible.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__filesystem/file_time_type.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/flatten_dense_tensors.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_index_put_impl_native.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_object.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/addr_native.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_softmax.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/conv3d_ops.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/transform_reduce.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/max_pool2d_with_indices_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/logical_xor.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/generate.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_rowwise_prune.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cudnn_init_dropout_state.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_nothrow_move_assignable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__concepts/boolean_testable.h:
 
@@ -14822,12 +14822,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_conj_physical.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_function.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_csr_sum_ops.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_rotate_copy.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_fftfreq.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/histc_native.h:
 
@@ -14891,14 +14885,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_copy_constructible.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/pair.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/format_error.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/TensorOperators.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_tan.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_constant_evaluated.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__iterator/iterator_traits.h:
@@ -14922,6 +14908,10 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/LinalgBackend.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__iterator/next.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_tan_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_arithmetic.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/greater_equal.h:
 
@@ -14979,12 +14969,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_copy_from_and_resize.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_embedding_bag_sparse_backward_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/randint_native.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/result_of.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/and_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/c10/core/QScheme.h:
@@ -15037,6 +15021,12 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__compare/weak_order.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_ihfftn_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/iter_swap.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__atomic/kill_dependency.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/Context.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__threading_support:
@@ -15075,6 +15065,12 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_efficientzerotensor_native.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/var.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/no_destroy.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_log1p_ops.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/all_of.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__string/extern_template_lists.h:
@@ -15104,6 +15100,12 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/avg_pool3d_backward_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_convolution.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/split_copy.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_functional_assert_scalar_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_version_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/logaddexp2.h:
 
@@ -15153,13 +15155,79 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__ranges/data.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_scaled_dot_product_cudnn_attention_ops.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/student_t_distribution.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_functional_sym_constrain_range_native.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/hardswish_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/logical_or_native.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/shuffle_order_engine.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__filesystem/filesystem_error.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/remove_volatile.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory/unique_ptr.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/dstack_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/xpu.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_masked_softmax_backward_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory_resource/memory_resource.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_semi_structured_linear_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_reference_wrapper.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/seed_seq.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/random_device.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cat_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_batch_norm_impl_index_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_replace.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/poisson_distribution.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/arm/signal.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__concepts/copyable.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/bitwise_not_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/copysign_meta.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cosh_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fused_dropout_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/refine_names_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfft2_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_reference.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/negative_binomial_distribution.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_weight_norm_interface_backward_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/arm/_limits.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/core/type_ptr.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/mersenne_twister_engine.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__filesystem/file_type.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/in_fun_result.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__functional/compose.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fbgemm_linear_int8_weight.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/kron.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/is_seed_sequence.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/index_select.h:
 
@@ -15168,6 +15236,60 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__thread/id.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/pstl_reduce.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/vdot_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/softplus_backward_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/mps_convolution_backward.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_types/_nlink_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__iterator/erase_if_container.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_nested_get_lengths_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/discrete_distribution.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_polygamma_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_endian.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/Config.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/buffer.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_test_serialization_subcmul.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/index_copy_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__condition_variable/condition_variable.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/addr_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/conv3d_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/max_pool2d_with_indices_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/logical_xor.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/generate.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_rowwise_prune.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cudnn_init_dropout_state.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__compare/compare_strong_order_fallback.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/bernoulli_distribution.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_scaled_dot_product_cudnn_attention_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_functional_sym_constrain_range_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/logical_or_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__filesystem/filesystem_error.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/scatter_add_ops.h:
 
@@ -15195,6 +15317,12 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_unique_copy.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/to_sparse_bsr.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/div.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cummax_helper.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_upper_bound.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/tril_native.h:
@@ -15218,12 +15346,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__mutex/once_flag.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_remove_copy_if.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/refine_names_native.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_reference.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfft2_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_upsample_nearest_exact3d_backward_native.h:
 
@@ -15265,10 +15387,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory/raw_storage_iterator.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/c10/macros/Macros.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_zero_ops.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/linalg_ldl_solve_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/igamma_meta.h:
@@ -15303,7 +15421,31 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory/compressed_pair.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_test_parallel_materialize_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/floor.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/formatter_floating_point.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/independent_bits_engine.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory/builtin_new_allocator.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/triplet_margin_loss.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_linalg_solve_ex_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__concepts/invocable.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_xlocale.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_use_cudnn_ctc_loss.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_partition_copy.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_wctype.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/exponential_distribution.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/take_along_dim_native.h:
 
@@ -15312,6 +15454,14 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory/allocator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory/allocate_at_least.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__math/inverse_trigonometric_functions.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/as_lvalue.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_minmax_element.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_has_compatible_shallow_copy_type_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_to_copy.h:
 
@@ -15326,8 +15476,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/copy_move_common.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory/align.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfftfreq.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory/addressof.h:
 
@@ -15381,12 +15529,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__math/hyperbolic_functions.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/gcd.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_unique2.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_zero.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/linalg_lstsq_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_convert_indices_from_coo_to_csr_native.h:
@@ -15401,13 +15543,7 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__math/exponential_functions.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/copy.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__functional/compose.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__filesystem/file_type.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/in_fun_result.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/strip_signature.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/jit/runtime/interpreter.h:
 
@@ -15423,6 +15559,12 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory/allocator_destructor.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/gcd.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_unique2.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_zero.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cdist_backward_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_thnn_fused_gru_cell_native.h:
@@ -15437,11 +15579,17 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/scalar_tensor.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/geometric_distribution.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_scalar.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_native_batch_norm_legit_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_conv_depthwise2d_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/includes.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fake_quantize_per_channel_affine_cachemask_backward.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/glu_backward_ops.h:
 
@@ -15469,8 +15617,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cast_Double.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_replace.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/diag_embed_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_masked_scale_ops.h:
@@ -15487,18 +15633,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_semi_structured_apply_dense_native.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/vdot_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/softplus_backward_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/mps_convolution_backward.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_nested_get_lengths_ops.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_types/_nlink_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__iterator/erase_if_container.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_valid_expansion.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/sym_constrain_range_native.h:
@@ -15510,6 +15644,10 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__iterator/empty.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/all_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fill_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/format_parse_context.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/tril.h:
 
@@ -15567,6 +15705,14 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__fwd/memory_resource.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__iterator/projected.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/data/transforms/base.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/select_scatter_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/generate_canonical.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_pad_enum.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/data/transforms/tensor.h:
@@ -15607,10 +15753,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_nested_tensor_storage_offsets_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/vstack_native.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/remove_pointer.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/assert.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__functional/reference_wrapper.h:
@@ -15622,10 +15764,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/typeindex:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_histogramdd_bin_edges_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_transform_bias_rescale_qkv.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/formatter_string.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_ctermid.h:
 
@@ -15739,6 +15877,20 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/range_default_formatter.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/nn/functional/conv.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/log_normal_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/find_segment_if.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_gammaln_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_addcmul.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_functional_sym_constrain_range_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/formatter_integer.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_csr_tensor_unsafe_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_masked_softmax_backward_ops.h:
@@ -15783,6 +15935,16 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/escaped_output_table.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_log_ndtr_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/lstm_cell_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_int_mm.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_unsafe_view.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/pstl_for_each.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/enable_insertable.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/reflection_pad2d_backward_ops.h:
@@ -15823,10 +15985,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__functional/pointer_to_unary_function.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_pthread/_pthread_t.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_hfft_native.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/linalg_matrix_power_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/heaviside.h:
@@ -15865,20 +16023,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__config:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_polygamma_ops.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_endian.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/Config.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/buffer.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_test_serialization_subcmul.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/index_copy_ops.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__condition_variable/condition_variable.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/linalg_lu_solve_native.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__memory/destruct_n.h:
@@ -15911,9 +16055,17 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/equal.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/arm/signal.h:
+/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/data/samplers/sequential.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__concepts/copyable.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/find_if.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/multi_margin_loss_backward_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/core/boxing/impl/make_boxed_from_unboxed_functor.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/zeros_like_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/exchange.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/remove.h:
 
@@ -15928,10 +16080,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/queue:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__concepts/common_reference_with.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/amin_native.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__filesystem/path_iterator.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/jit/api/object.h:
 
@@ -15989,8 +16137,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_mm.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_functional_assert_async_ops.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/linalg_tensorinv_native.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_find_end.h:
@@ -16002,16 +16148,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__charconv/tables.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/transform.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_mkldnn_reshape.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/nn/modules/embedding.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_entr_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fmin_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sinh_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/segment_reduce.h:
 
@@ -16029,8 +16165,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_thnn_fused_lstm_cell_native.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__compare/compare_strong_order_fallback.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_mb_cur_max.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/formatter_pointer.h:
@@ -16041,11 +16175,23 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__compare/common_comparison_category.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sign_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_trivially_move_constructible.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__thread/this_thread.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fake_quantize_per_tensor_affine_native.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__chrono/year_month_weekday.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/TensorIterator.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_fftshift.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/linalg_norm_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/void_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__math/error_functions.h:
 
@@ -16063,15 +16209,15 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_nothrow_default_constructible.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_log_ndtr_ops.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/l1_loss.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/lstm_cell_native.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_trunc_ops.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_int_mm.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/type_identity.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_unsafe_view.h:
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/amin_native.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/pstl_for_each.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__filesystem/path_iterator.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_erfc_native.h:
 
@@ -16112,10 +16258,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fractional_max_pool2d_meta.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__chrono/month.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/new_zeros_native.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/malloc/_malloc.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_nested_view_from_buffer_ops.h:
 
@@ -16211,17 +16353,9 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__charconv/to_chars_floating_point.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__iterator/projected.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/softplus_backward.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__charconv/to_chars_base_10.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/digamma_meta.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/tensor_split_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sigmoid_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/bmm_native.h:
 
@@ -16256,6 +16390,10 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/uniform_random_bit_generator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/formatter_char.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/flatten_dense_tensors.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__filesystem/file_time_type.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/is_partitioned.h:
 
@@ -16301,14 +16439,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_erfc.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/ormqr.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/max_pool2d_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_pdist_backward.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sub.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/alias_copy_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/common_type.h:
@@ -16325,10 +16455,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__concepts/derived_from.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_irfft.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/unwrap_ref.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/nn/modules/transformerlayer.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fbgemm_linear_int8_weight_native.h:
@@ -16338,14 +16464,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/upper_bound.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/batch_norm_stats_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/floor.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/formatter_floating_point.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/data/detail/data_shuttle.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sin_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cross_entropy_loss_native.h:
 
@@ -16406,6 +16524,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/le_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_enum.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/replace_if.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/avg_pool3d_backward_ops.h:
 
@@ -16473,10 +16593,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/common_reference.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fill_diagonal_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sign.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/equal_range.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/format_args.h:
@@ -16491,11 +16607,15 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_max.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/replace_if.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/kthvalue_native.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__math/traits.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/new_zeros_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/malloc/_malloc.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/binomial_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_trivially_copy_assignable.h:
 
@@ -16508,6 +16628,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/tan_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/arctan2_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/lognormal_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__filesystem/perm_options.h:
 
@@ -16593,17 +16715,13 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_batch_norm_with_update_native.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfftfreq_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/einsum_native.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_int_mm_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/copy.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_xlocale.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_use_cudnn_ctc_loss.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_wctype.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_partition_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_literal_type.h:
 
@@ -16669,7 +16787,17 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_lexicographical_compare.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfftfreq_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_test_optional_floatlist_native.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/fill_n.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_scaled_dot_product_cudnn_attention_backward_ops.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/optim/adagrad.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_for_each_n.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_fill_n.h:
 
@@ -16678,12 +16806,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/__wctype.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/mutex:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cosh_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fused_dropout_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_irfft2_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_chunk_cat_ops.h:
 
@@ -16696,8 +16818,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_types/_nl_item.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_copy_backward.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fix_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/data/datasets/stateful.h:
 
@@ -16712,6 +16832,14 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/native_layer_norm_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/arm/endian.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/conv_transpose1d.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/comp.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/empty.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__chrono/system_clock.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/reshape_as.h:
 
@@ -16732,10 +16860,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_find_first_of.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__filesystem/directory_options.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/nll_loss_backward.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_rsqrt_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_log_softmax_meta.h:
 
@@ -16927,16 +17051,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/partial_sort_copy.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fake_quantize_learnable_per_tensor_affine.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_batch_norm_with_update_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/triplet_margin_loss.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_linalg_solve_ex_ops.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__concepts/invocable.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__atomic/is_always_lock_free.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/empty_quantized.h:
@@ -16975,8 +17089,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__stop_token/stop_callback.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sigmoid_ops.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/fill.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/movedim_native.h:
@@ -17014,8 +17126,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_move_assignable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/parser_std_format_spec.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_prelu_kernel_backward_native.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/generate_n.h:
 
@@ -17061,12 +17171,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/wctype.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_logit_native.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/mul_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_use_cudnn_ctc_loss_native.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/is_vulkan_available_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/floor_divide_native.h:
@@ -17091,8 +17195,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/pstl_find.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_functional_assert_async.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/is_complex.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__iterator/mergeable.h:
@@ -17105,12 +17207,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/concepts.h:
 
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/avg_pool3d_backward.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_upsample_nearest_exact1d_meta.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/integer_sequence.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_i1_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cos.h:
@@ -17120,8 +17216,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/batch_norm_update_stats_ops.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_clamp.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_sqrt_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/inner_ops.h:
 
@@ -17155,17 +17249,29 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__mutex/tag_types.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_prelu_kernel_backward_native.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/empty_like_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/ranlux.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_debug_has_internal_overlap.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/floor_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cudnn_rnn_backward_native.h:
 
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cummin.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fake_quantize_per_tensor_affine_cachemask_tensor_qparams.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/as_strided_native.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/cauchy_distribution.h:
+
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/new_full_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_embedding_bag_backward_ops.h:
-
-/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_rfft2.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/refine_names.h:
 
@@ -17176,6 +17282,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_unique.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__compare/compare_partial_order_fallback.h:
+
+/Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_ceil.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/unfold_copy_ops.h:
 

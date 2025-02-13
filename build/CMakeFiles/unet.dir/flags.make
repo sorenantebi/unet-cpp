@@ -4,7 +4,7 @@
 # compile CXX with /Library/Developer/CommandLineTools/usr/bin/c++
 CXX_DEFINES = -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE
 
-CXX_INCLUDES = -isystem /Users/sorenantebi/Downloads/libtorch/include -isystem /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include
+CXX_INCLUDES = -I/Users/sorenantebi/Desktop/Fun/unet_cpp/stb_image -isystem /Users/sorenantebi/Downloads/libtorch/include -isystem /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include
 
 CXX_FLAGSarm64 = -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk
 
