@@ -129,6 +129,30 @@ unet/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/build
 .PHONY : unet/fast
 
+encoder.o: encoder.cpp.o
+.PHONY : encoder.o
+
+# target to build an object file
+encoder.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/encoder.cpp.o
+.PHONY : encoder.cpp.o
+
+encoder.i: encoder.cpp.i
+.PHONY : encoder.i
+
+# target to preprocess a source file
+encoder.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/encoder.cpp.i
+.PHONY : encoder.cpp.i
+
+encoder.s: encoder.cpp.s
+.PHONY : encoder.s
+
+# target to generate assembly for a file
+encoder.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/encoder.cpp.s
+.PHONY : encoder.cpp.s
+
 unet.o: unet.cpp.o
 .PHONY : unet.o
 
@@ -162,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... unet"
+	@echo "... encoder.o"
+	@echo "... encoder.i"
+	@echo "... encoder.s"
 	@echo "... unet.o"
 	@echo "... unet.i"
 	@echo "... unet.s"
