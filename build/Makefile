@@ -129,6 +129,30 @@ unet/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/build
 .PHONY : unet/fast
 
+decoder.o: decoder.cpp.o
+.PHONY : decoder.o
+
+# target to build an object file
+decoder.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/decoder.cpp.o
+.PHONY : decoder.cpp.o
+
+decoder.i: decoder.cpp.i
+.PHONY : decoder.i
+
+# target to preprocess a source file
+decoder.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/decoder.cpp.i
+.PHONY : decoder.cpp.i
+
+decoder.s: decoder.cpp.s
+.PHONY : decoder.s
+
+# target to generate assembly for a file
+decoder.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/decoder.cpp.s
+.PHONY : decoder.cpp.s
+
 encoder.o: encoder.cpp.o
 .PHONY : encoder.o
 
@@ -152,6 +176,30 @@ encoder.s: encoder.cpp.s
 encoder.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/encoder.cpp.s
 .PHONY : encoder.cpp.s
+
+main.o: main.cpp.o
+.PHONY : main.o
+
+# target to build an object file
+main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/main.cpp.o
+.PHONY : main.cpp.o
+
+main.i: main.cpp.i
+.PHONY : main.i
+
+# target to preprocess a source file
+main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/main.cpp.i
+.PHONY : main.cpp.i
+
+main.s: main.cpp.s
+.PHONY : main.s
+
+# target to generate assembly for a file
+main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 unet.o: unet.cpp.o
 .PHONY : unet.o
@@ -186,9 +234,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... unet"
+	@echo "... decoder.o"
+	@echo "... decoder.i"
+	@echo "... decoder.s"
 	@echo "... encoder.o"
 	@echo "... encoder.i"
 	@echo "... encoder.s"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 	@echo "... unet.o"
 	@echo "... unet.i"
 	@echo "... unet.s"

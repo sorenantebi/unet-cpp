@@ -1,6 +1,6 @@
-CMakeFiles/unet.dir/unet.cpp.o: \
-  /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp \
-  /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.h \
+CMakeFiles/unet.dir/decoder.cpp.o: \
+  /Users/sorenantebi/Desktop/Fun/unet_cpp/decoder.cpp \
+  /Users/sorenantebi/Desktop/Fun/unet_cpp/decoder.h \
   /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/torch.h \
   /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/all.h \
   /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/autograd.h \
@@ -5736,6 +5736,4 @@ CMakeFiles/unet.dir/unet.cpp.o: \
   /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/jit/frontend/strtod.h \
   /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/jit/frontend/schema_matching.h \
   /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/jit/frontend/versioned_symbols.h \
-  /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/jit/frontend/tree_views.h \
-  /Users/sorenantebi/Desktop/Fun/unet_cpp/encoder.h \
-  /Users/sorenantebi/Desktop/Fun/unet_cpp/decoder.h
+  /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/jit/frontend/tree_views.h

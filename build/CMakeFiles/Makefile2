@@ -85,12 +85,12 @@ clean: CMakeFiles/unet.dir/clean
 CMakeFiles/unet.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/sorenantebi/Desktop/Fun/unet_cpp/build/CMakeFiles --progress-num=1,2,3 "Built target unet"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/sorenantebi/Desktop/Fun/unet_cpp/build/CMakeFiles --progress-num=1,2,3,4,5 "Built target unet"
 .PHONY : CMakeFiles/unet.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/unet.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sorenantebi/Desktop/Fun/unet_cpp/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sorenantebi/Desktop/Fun/unet_cpp/build/CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/unet.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sorenantebi/Desktop/Fun/unet_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/unet.dir/rule
@@ -102,7 +102,7 @@ unet: CMakeFiles/unet.dir/rule
 # codegen rule for target.
 CMakeFiles/unet.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unet.dir/build.make CMakeFiles/unet.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/sorenantebi/Desktop/Fun/unet_cpp/build/CMakeFiles --progress-num=1,2,3 "Finished codegen for target unet"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/sorenantebi/Desktop/Fun/unet_cpp/build/CMakeFiles --progress-num=1,2,3,4,5 "Finished codegen for target unet"
 .PHONY : CMakeFiles/unet.dir/codegen
 
 # clean rule for target.
