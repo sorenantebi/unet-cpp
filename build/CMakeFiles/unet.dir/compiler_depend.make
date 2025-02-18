@@ -12066,43 +12066,10 @@ CMakeFiles/unet.dir/main.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/main.cpp
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/transform_exclusive_scan.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/transform_inclusive_scan.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/transform_reduce.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/bernoulli_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/binomial_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/cauchy_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/chi_squared_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/clamp_to_integral.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/default_random_engine.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/discard_block_engine.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/discrete_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/exponential_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/extreme_value_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/fisher_f_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/gamma_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/generate_canonical.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/geometric_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/independent_bits_engine.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/is_seed_sequence.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/is_valid.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/knuth_b.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/linear_congruential_engine.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/log2.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/lognormal_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/mersenne_twister_engine.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/negative_binomial_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/normal_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/piecewise_constant_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/piecewise_linear_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/poisson_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/random_device.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/ranlux.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/seed_seq.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/shuffle_order_engine.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/student_t_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/subtract_with_carry_engine.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/uniform_random_bit_generator.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/uniform_real_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/weibull_distribution.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__ranges/access.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__ranges/concepts.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__ranges/container_compatible_range.h \
@@ -12370,7 +12337,6 @@ CMakeFiles/unet.dir/main.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/main.cpp
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/ostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/print \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/queue \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/random \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/ratio \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/set \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/shared_mutex \
@@ -12553,6 +12519,7 @@ CMakeFiles/unet.dir/main.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/main.cpp
   /Users/sorenantebi/Desktop/Fun/unet_cpp/decoder.h \
   /Users/sorenantebi/Desktop/Fun/unet_cpp/encoder.h \
   /Users/sorenantebi/Desktop/Fun/unet_cpp/stb_image/stb_image.h \
+  /Users/sorenantebi/Desktop/Fun/unet_cpp/stb_image/stb_image_write.h \
   /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.h \
   /Users/sorenantebi/Downloads/libtorch/include/ATen/ATen.h \
   /Users/sorenantebi/Downloads/libtorch/include/ATen/BlasBackend.h \
@@ -17843,43 +17810,10 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/transform_exclusive_scan.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/transform_inclusive_scan.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/transform_reduce.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/bernoulli_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/binomial_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/cauchy_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/chi_squared_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/clamp_to_integral.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/default_random_engine.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/discard_block_engine.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/discrete_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/exponential_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/extreme_value_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/fisher_f_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/gamma_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/generate_canonical.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/geometric_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/independent_bits_engine.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/is_seed_sequence.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/is_valid.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/knuth_b.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/linear_congruential_engine.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/log2.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/lognormal_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/mersenne_twister_engine.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/negative_binomial_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/normal_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/piecewise_constant_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/piecewise_linear_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/poisson_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/random_device.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/ranlux.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/seed_seq.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/shuffle_order_engine.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/student_t_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/subtract_with_carry_engine.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/uniform_random_bit_generator.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/uniform_real_distribution.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/weibull_distribution.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__ranges/access.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__ranges/concepts.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__ranges/container_compatible_range.h \
@@ -18147,7 +18081,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/ostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/print \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/queue \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/random \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/ratio \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/set \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/shared_mutex \
@@ -18326,10 +18259,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdint.h \
-  /Users/sorenantebi/Desktop/Fun/unet_cpp/dataset.h \
   /Users/sorenantebi/Desktop/Fun/unet_cpp/decoder.h \
   /Users/sorenantebi/Desktop/Fun/unet_cpp/encoder.h \
-  /Users/sorenantebi/Desktop/Fun/unet_cpp/stb_image/stb_image.h \
   /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.h \
   /Users/sorenantebi/Downloads/libtorch/include/ATen/ATen.h \
   /Users/sorenantebi/Downloads/libtorch/include/ATen/BlasBackend.h \
@@ -23038,36 +22969,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Desktop/Fun/unet_cpp/stb_image/stb_image.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/student_t_distribution.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/seed_seq.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/ranlux.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/random_device.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/piecewise_linear_distribution.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/negative_binomial_distribution.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/mersenne_twister_engine.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/lognormal_distribution.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/extreme_value_distribution.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/exponential_distribution.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/discrete_distribution.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/chi_squared_distribution.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/cauchy_distribution.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/binomial_distribution.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/bernoulli_distribution.h:
-
 /Users/sorenantebi/Desktop/Fun/unet_cpp/encoder.cpp:
 
 /Users/sorenantebi/Downloads/libtorch/include/torch/library.h:
@@ -23872,8 +23773,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_legendre_polynomial_p_native.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/piecewise_constant_distribution.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_legendre_polynomial_p_meta.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/special_legendre_polynomial_p.h:
@@ -24168,8 +24067,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/selu.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/generate_canonical.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/data/transforms/base.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/select_scatter_ops.h:
@@ -24351,6 +24248,8 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/reflection_pad3d_backward_meta.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/reflection_pad3d_backward.h:
+
+/Users/sorenantebi/Desktop/Fun/unet_cpp/stb_image/stb_image_write.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/reflection_pad3d.h:
 
@@ -25266,8 +25165,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/log2_native.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/fisher_f_distribution.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/log10_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/log10_native.h:
@@ -25532,8 +25429,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/lgamma.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/weibull_distribution.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/less_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/less_equal.h:
@@ -25595,8 +25490,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/kron_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/kron_native.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/is_seed_sequence.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/kron.h:
 
@@ -25794,8 +25687,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/index_put.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/knuth_b.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/index_meta.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/index_fill_native.h:
@@ -25903,8 +25794,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/hardtanh.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/hardswish_ops.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/shuffle_order_engine.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/hardswish_native.h:
 
@@ -26311,8 +26200,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_spsolve.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fbgemm_linear_int8_weight_fp32_activation_ops.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/clamp_to_integral.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_ends_with.h:
 
@@ -28358,8 +28245,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_coo_tensor_with_dims_and_tensors_native.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/discard_block_engine.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_to_sparse_csc.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/is_leaf_ops.h:
@@ -28803,8 +28688,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_pad_circular_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_propagate_xla_data.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/linear_congruential_engine.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/torch/csrc/api/include/torch/serialize/tensor.h:
 
@@ -29380,10 +29263,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/embedding_bag.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/normal_distribution.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/default_random_engine.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/cstdlib:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fused_adam.h:
@@ -29939,8 +29818,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cummin_helper.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/dstack.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/gamma_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__utility/exception_guard.h:
 
@@ -31392,8 +31269,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/pthread/sched.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/uniform_real_distribution.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/pthread/pthread_impl.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/nl_types.h:
@@ -32264,8 +32139,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/format_error.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/subtract_with_carry_engine.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/TensorOperators.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_foreach_tan.h:
@@ -32806,8 +32679,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_sparse_csr_prod_native.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/geometric_distribution.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/scalar_tensor.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/is_scalar.h:
@@ -32841,8 +32712,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/hstack_ops.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_cast_Double.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/poisson_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__algorithm/ranges_replace.h:
 
@@ -33690,8 +33559,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/batch_norm_stats_ops.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__random/independent_bits_engine.h:
-
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/floor.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__format/formatter_floating_point.h:
@@ -34041,8 +33908,6 @@ CMakeFiles/unet.dir/unet.cpp.o: /Users/sorenantebi/Desktop/Fun/unet_cpp/unet.cpp
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/cosh_native.h:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/_fused_dropout_native.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/random:
 
 /Users/sorenantebi/Downloads/libtorch/include/ATen/ops/fft_irfft2_ops.h:
 
