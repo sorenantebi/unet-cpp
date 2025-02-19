@@ -4,6 +4,24 @@
 #include <stb_image_write.h>
 #include <iostream>
 
+#define PBSTR "||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
+#define PBWIDTH 60
+
+void print_progress(float percentage,std::string message){
+    static int lastlpad = -1;
+    int val = (int)(percentage * 100);
+    int lpad = (int)(percentage*PBWIDTH);
+    if(lastlpad==lpad){
+        return;
+    }
+    lastlpad = lpad;
+    int rpad = PBWIDTH - lpad;
+    printf("\r%s   %3d%% [\033[32m%.*s%*s\033[0m]", message.c_str(), val, lpad, PBSTR, rpad, "");
+    fflush(stdout);
+    if(val == 100){
+        printf("\n");
+    }
+}
 
 void save_mask(torch::Tensor mask, const std::string& output_path) {
     // Move tensor to CPU and ensure correct type
@@ -135,7 +153,7 @@ int main() {
     std::string best_model_path = "best_model.pth";
     int num_class = 4;
     int num_epochs = 10;
-
+    size_t batch_size = 4;
     //Unet model(1, num_class, 16);
     auto model = std::make_shared<Unet>(1, num_class, 16);
     model->to(device); 
@@ -148,19 +166,22 @@ int main() {
     auto test_dataset = ImageSet("/Users/sorenantebi/Desktop/coursework_02/Task01_BrainTumour_2D/test_images", "/Users/sorenantebi/Desktop/coursework_02/Task01_BrainTumour_2D/test_labels", false).map(torch::data::transforms::Stack<>());
 
     auto train_data_loader = torch::data::make_data_loader<torch::data::samplers::RandomSampler>(
-        std::move(train_dataset), torch::data::DataLoaderOptions().batch_size(4)
+        std::move(train_dataset), torch::data::DataLoaderOptions().batch_size(batch_size)
     );
     
     auto test_data_loader = torch::data::make_data_loader<torch::data::samplers::SequentialSampler>(
-        std::move(test_dataset), torch::data::DataLoaderOptions().batch_size(4)
+        std::move(test_dataset), torch::data::DataLoaderOptions().batch_size(batch_size)
     );
 
     std::string masks_dir = "output_masks";
     if (!std::filesystem::exists(masks_dir)) {
         std::filesystem::create_directory(masks_dir);
     }
+    
+    std::optional<size_t> dataset_size_opt = train_dataset.size();
 
     for (int epoch = 0; epoch < num_epochs; ++epoch) {
+        
         model->train();
 
         int train_batch_idx = 0;
@@ -186,6 +207,9 @@ int main() {
             train_total_loss += loss.item<float>();
 
             train_batch_idx++;
+           
+            std::string message = "Training: Epoch [" + std::to_string(epoch + 1) + "]";
+            print_progress(static_cast<float>(train_batch_idx)/(dataset_size_opt.value()/batch_size), message);
         }
 
         std::cout << "Epoch [" << (epoch + 1) << "] - Train Loss: " << (train_total_loss / train_batch_idx) << "\n";

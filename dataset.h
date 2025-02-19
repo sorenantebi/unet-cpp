@@ -14,7 +14,7 @@ private:
     std::vector<torch::Tensor> images;
     std::vector<torch::Tensor> labels;
     bool predict;
-
+    size_t sz = 0;
     // Function to load an image using stb_image
     torch::Tensor load_image(const std::string& path, bool normalize) {
         int width, height, channels;
@@ -84,12 +84,14 @@ public:
 
                 labels.push_back(label);
             }
+            sz = images.size();
+           
         }
     }
 
     // Get dataset size
     std::optional<size_t> size() const override {
-        return images.size();
+        return sz;
     }
 
     // Get an item (ensures consistent batch-like structure)
@@ -103,6 +105,8 @@ public:
 
         return {images[index], labels[index].squeeze(0)};
     }
+
+    
 };
 
 #endif
